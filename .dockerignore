@@ -1,0 +1,11 @@
+.github
+readme-resouces
+node_modules
+dist
+.editorconfig
+.gitignore
+.prettierrc
+dev.env
+.env
+.env.example
+README.md
